@@ -1,0 +1,9 @@
+Package: com.user.keeplockicon
+Name: KeepLockIcon
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Заставляет значок Face ID оставаться на месте после разблокировки.
+Maintainer: lukk77
+Author: luk77
+Section: Tweaks
